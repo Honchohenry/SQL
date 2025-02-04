@@ -1,4 +1,4 @@
-# SQL
+# SQL Data Cleaning
 -- Data Cleaning 
 -- first thing we want to do is create a staging table.
 -- This is the one we will work in and clean the data. 
